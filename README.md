@@ -38,7 +38,7 @@ Installation
 Start by cloning this repository.
 
 ```
-git clone https://github.com/etherex/etherex.git
+git clone https://github.com/etherfox/etherfox.git
 ```
 
 
