@@ -1,4 +1,4 @@
-EtherEx
+Etherfox Trade
 =======
 [![Build Status](https://travis-ci.org/etherex/etherex.svg?branch=master)](https://travis-ci.org/etherex/etherex)
 [![Dependency Status](https://david-dm.org/etherex/etherex.svg?path=frontend)](https://david-dm.org/etherex/etherex?path=frontend)
@@ -7,7 +7,7 @@ EtherEx
 
 Decentralized exchange built on Ethereum.
 
-<img src="/frontend/screenshot.png" />
+<img src="https://github.com/etherfox/etherfox/blob/master/frontend/screenshot.PNG?raw=true" />
 
 About
 -----
