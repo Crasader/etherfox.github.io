@@ -189,7 +189,7 @@ EtherEx allows you to categorize your subcurrency into four main categories. Sin
 
 #### Market IDs
 ```
-1 = ETX/ETH
+1 = FOX/ETH
 ```
 New market IDs will be created as DAO creators add their subcurrency to the exchange.
 
